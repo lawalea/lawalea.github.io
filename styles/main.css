@@ -1,0 +1,61 @@
+h1, p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: aquamarine;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    overflow: hidden;
+    background-color: #333;
+    width: 100%;
+}
+
+header {
+    width: 100%;
+    position: absolute;
+    top:0;
+    Left:0;
+}
+
+li{
+    float: left;
+}
+
+li a{
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+html {
+    width: 100%;
+}
+
+body{
+    width: 100%;
+    background-image: url('../images/Leeds.jpg');
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+main{
+    padding-top:30px;
+}
+
+
+
+
+.menu{
+    font-family: 'Courier New', Courier, monospace;
+}
