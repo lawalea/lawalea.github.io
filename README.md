@@ -1,2 +1,2 @@
-# profile
-Creating a profile page online
+# Hello!
+This is my personal profile page. 
